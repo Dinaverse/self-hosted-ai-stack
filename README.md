@@ -1,6 +1,6 @@
-# 🐳 Local AI Sovereign Stack
+# Self-Hosted AI Stack
 
-> *A fully self-hosted, cloud-agnostic AI infrastructure stack combining Ollama, Docker, and Prometheus/Grafana for local LLM inference, autonomous workflows, and real-time observability.*
+> A self-hosted AI infrastructure stack combining Ollama, Docker, and Prometheus/Grafana for local LLM inference and observability.
 
 ---
 
